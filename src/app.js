@@ -9,7 +9,7 @@ let dolarDun=9.20
     let dolarDun=9.10
 
 }
-
+ssssssss
 console.log(dolarDun)
 
 const euroDun=11.2 // böyle tanımladıktan sonra başka değer atayamayız. const sabit demek
@@ -25,7 +25,7 @@ for (let i = 0; i < konutKredileri.length ;i++) {
 }
 
 console.log("</ul>")
-
+ssss
 
 
 
